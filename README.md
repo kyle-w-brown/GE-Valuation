@@ -9,7 +9,7 @@ A discounted cashflow, leverage buyout, and weighted average cost of capital val
 
 
 <div align="center">
-  <img src="https://github.com/kyle-w-brown/FoodScore/blob/master/images/explore.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/memo-2.PNG"><br><br>
 </div>
 
 <div align="center">
