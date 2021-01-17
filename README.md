@@ -1,6 +1,6 @@
 # GE Valuation
 
-A thorough discounted cashflow, leverage buyout, and weighted average cost of capital valuation of GE was performed for course final project in FIN 5340: Corporate Valuation, at Mike Ilitch School of Business. A dynamic financial model was created using Excel and an accompanied Executive Summary highlights valuations, industry analysis, and highlights. 
+A Discounted Cashflow (DCF), Leverage Buyout (LBO), and Weighted Average Cost of Capital (WACC) valuation of GE was performed including a dynamic financial model created using Excel with accompanied Executive Summary, industry analysis, and highlights. 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_dcf.PNG"><br><br>
