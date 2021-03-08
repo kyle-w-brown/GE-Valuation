@@ -19,7 +19,7 @@ for short and long-term outlook. The analysis covers:
 
 <br>
 
-## WACC Valuation
+## SOTP Valuation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_sotp.PNG"><br><br>
@@ -27,7 +27,7 @@ for short and long-term outlook. The analysis covers:
 
 <br>
 
-## Leverage Buyout Valuation
+## LBO Valuation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_lbo.PNG"><br><br>
