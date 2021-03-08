@@ -9,7 +9,7 @@ for short and long-term outlook. The analysis covers:
 * DCF analysis and WACC using the CAPM method.
 * Sum of the Parts (SOTP) Valuation.
 
-### Financial Model can be found [here]().
+### Financial Model can be found [here](https://github.com/kyle-w-brown/GE-Valuation/raw/master/GE_Memo_Group-5.pdf).
 ### Executive Summary can be found [here]().
 
 <br>
