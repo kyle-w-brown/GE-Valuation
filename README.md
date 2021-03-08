@@ -1,13 +1,13 @@
 # GE Valuation
 
-A Discounted Cashflow (DCF), Leverage Buyout (LBO), and Weighted Average Cost of Capital (WACC) valuation of GE was performed using Excel accompanied with dynamic financial model, Executive Summary, industry analysis, and highlights. 
+The purpose of this valuation was  to provide a detailed valuation of GE, with accompanying analysis for short and long-term outlook. A Discounted Cashflow (DCF), Leverage Buyout (LBO), and Weighted Average Cost of Capital (WACC) valuation of GE was performed using Excel accompanied with dynamic financial model, Executive Summary, industry analysis, and highlights. 
 
-The purpose of this valuation was  to provide a detailed valuation of GE, with accompanying analysis
-for short and long-term outlook. The analysis covers:
+This analysis covers:
 * An overview of GE, company description, segments, and financial performance with ratios
 * FCF model with accompanied 5-year forecast
 * DCF analysis and WACC using the CAPM method
 * Sum of the Parts (SOTP) Valuation
+* Executive Summary
 
 ### Financial Model can be downloaded [here](https://github.com/kyle-w-brown/GE-Valuation/blob/master/GE_Valuation_Group-5.xlsx?raw=true).
 ### Executive Summary can be downloaded [here](https://github.com/kyle-w-brown/GE-Valuation/raw/master/GE_Memo_Group-5.pdf).
