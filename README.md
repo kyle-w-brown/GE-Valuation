@@ -9,6 +9,9 @@ for short and long-term outlook. The analysis covers:
 * DCF analysis and WACC using the CAPM method.
 * Sum of the Parts (SOTP) Valuation.
 
+### Financial Model can be found [here]().
+### Executive Summary can be found [here]().
+
 <br>
 
 ## DCF Valuation
