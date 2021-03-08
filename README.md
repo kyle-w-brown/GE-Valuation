@@ -4,11 +4,14 @@ A Discounted Cashflow (DCF), Leverage Buyout (LBO), and Weighted Average Cost of
 
 The purpose of this valuation was  to provide a detailed valuation of GE, with accompanying analysis
 for short and long-term outlook. The analysis covers:
-* An overview of the company description, segments, and financial performance.
+* An overview of GE, company description, segments, and financial performance with ratios.
 * FCF model with accompanied 5-year forecast.
-* Provide a Discounted Cash Flow analysis and Weighted Average Cost of Capital using the 
-CAPM method.
-* Sum of the Parts (SOTP) Valuation
+* DCF analysis and WACC using the CAPM method.
+* Sum of the Parts (SOTP) Valuation.
+
+<br>
+
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_dcf.PNG"><br><br>
