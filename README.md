@@ -11,26 +11,28 @@ for short and long-term outlook. The analysis covers:
 
 <br>
 
-## 
+## DCF Valuation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_dcf.PNG"><br><br>
 </div>
 
+<br>
+
+## WACC Valuation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_sotp.PNG"><br><br>
 </div>
 
+<br>
+
+## Leverage Buyout Valuation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_lbo.PNG"><br><br>
 </div>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_dcf.PNG"><br><br>
-</div>
 
 ## Excutive Summary
 
