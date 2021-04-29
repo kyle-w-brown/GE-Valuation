@@ -17,7 +17,7 @@ This analysis covers:
 ## DCF Valuation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/dcf.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/dcf.png"><br><br>
 </div>
 
 <br>
@@ -25,7 +25,7 @@ This analysis covers:
 ## SOTP Valuation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/sotp.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/sotp.png"><br><br>
 </div>
 
 <br>
@@ -33,9 +33,15 @@ This analysis covers:
 ## LBO Valuation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/lbo.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/lbo.png"><br><br>
 </div>
 
+
+## Weighted Average Cost of Capital (WACC)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/wacc.png"><br><br>
+</div>
 
 ## Excutive Summary
 
