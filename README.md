@@ -17,7 +17,7 @@ This analysis covers:
 ## DCF Valuation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_dcf.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/dcf.PNG"><br><br>
 </div>
 
 <br>
@@ -25,7 +25,7 @@ This analysis covers:
 ## SOTP Valuation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_sotp.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/sotp.PNG"><br><br>
 </div>
 
 <br>
@@ -33,7 +33,7 @@ This analysis covers:
 ## LBO Valuation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/Wbk_lbo.PNG"><br><br>
+  <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/lbo.PNG"><br><br>
 </div>
 
 
