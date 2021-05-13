@@ -1,6 +1,6 @@
 # GE Valuation
 
-The purpose of this valuation was  to provide a detailed valuation of GE, with accompanying analysis for short and long-term outlook. A Discounted Cashflow (DCF), Leverage Buyout (LBO), and Weighted Average Cost of Capital (WACC) using Capital Asset Pricing Model (CAPM) valuation of GE was performed using Excel accompanied with dynamic financial model, Executive Summary, industry analysis, and highlights. 
+The purpose of this valuation was  to provide a detailed valuation of GE, with accompanying analysis for short and long-term outlook. A Discounted Cashflow (DCF), Leverage Buyout (LBO), and Weighted Average Cost of Capital (WACC) using Capital Asset Pricing Model (CAPM) valuation of GE was performed using Excel accompanied with dynamic financial model, Executive Summary, industry analysis, and highlights. Completing 95% of both the Financial Model & Executive Summary including structure, design, and content. 
 
 This analysis covers:
 * An overview of GE, company description, segments, and financial performance with ratios
