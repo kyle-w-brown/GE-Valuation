@@ -13,6 +13,7 @@ This analysis covers:
 <iframe src="https://github.com/kyle-w-brown/GE-Valuation/raw/master/GE_Valuation_Group-5.xlsx" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 </div>
 
+<br>
 
 <div align="center">
 <iframe src="https://github.com/kyle-w-brown/GE-Valuation/raw/master/GE_Memo_Group-5.pdf" width="800" height="500" frameborder="0" scrolling="no"></iframe>
