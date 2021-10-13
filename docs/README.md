@@ -10,13 +10,13 @@ This analysis covers:
 * Executive Summary
 
 <div align="center">
-<iframe src="https://github.com/kyle-w-brown/GE-Valuation/blob/gh-setup/GE_Valuation_Group-5.xlsx" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://1drv.ms/x/s!AtwT6GqhF4uigQf1C4OxEoYyTGb_?e=1FtZuI" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 </div>
 
 <br>
 
 <div align="center">
-<iframe src="https://github.com/kyle-w-brown/GE-Valuation/blob/gh-setup/GE_Memo_Group-5.pdf" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://1drv.ms/b/s!AtwT6GqhF4uigQqBp152mAbdOk50" width="800" height="500" frameborder="0" scrolling="no"></iframe>
 </div>
 
 
