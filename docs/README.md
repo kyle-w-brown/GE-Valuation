@@ -7,13 +7,16 @@ This analysis covers:
 * FCF model with accompanied 5-year forecast
 * DCF analysis and WACC using the CAPM method
 * Sum of the Parts (SOTP) Valuation
-* Executive Summary
-
-<div align="center">
-<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21762&authkey=AAltqsTAVYashsw&em=2" width="800" height="450" frameborder="0" scrolling="no"></iframe>
-</div>  
 
 <br>
+
+# Excel Workbook
+
+<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21764&authkey=AGsV443OoL38UmY&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
+
+<br>
+
+# Executive Summary
 
 <div align="center">
 <iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21138&authkey=AMQWgdaFVSi1jmw&em=2" width="800" height="500" frameborder="0" scrolling="no"></iframe>
@@ -21,6 +24,12 @@ This analysis covers:
 
 ### Financial Model can be downloaded [here](https://github.com/kyle-w-brown/GE-Valuation/blob/master/GE_Valuation_Group-5.xlsx?raw=true).
 ### Executive Summary can be downloaded [here](https://github.com/kyle-w-brown/GE-Valuation/raw/master/GE_Memo_Group-5.pdf).
+
+<br>
+
+# Overview
+
+General Electric Company is a globally diversified technology and financial services company. The Company’s products and services include aircraft engines, power generation, water processing, and household appliances to medical imaging, business and consumer financing, and industrial products.
 
 <br>
 
@@ -45,7 +54,6 @@ This analysis covers:
 <div align="center">
   <img src="https://raw.githubusercontent.com/kyle-w-brown/GE-Valuation/master/Images/lbo.png"><br><br>
 </div>
-
 
 ## Weighted Average Cost of Capital (WACC)
 
