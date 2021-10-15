@@ -9,15 +9,11 @@ This analysis covers:
 * Sum of the Parts (SOTP) Valuation
 * Executive Summary
 
-<div align="center">
-<iframe src=https://1drv.ms/x/s!AtwT6GqhF4uigQfYjKTHiZR_GaBY?e=0o2KgH" width="800" height="500" frameborder="0" scrolling="no"></iframe>
-</div>
+<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21135&authkey=AAzfR7N7tvXTV-s&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
 
 <br>
 
-<div align="center">
-<iframe src="https://1drv.ms/b/s!AtwT6GqhF4uigQqBp152mAbdOk50" width="800" height="500" frameborder="0" scrolling="no"></iframe>
-</div>
+<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21138&authkey=AMQWgdaFVSi1jmw&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 
 
 ### Financial Model can be downloaded [here](https://github.com/kyle-w-brown/GE-Valuation/blob/master/GE_Valuation_Group-5.xlsx?raw=true).
