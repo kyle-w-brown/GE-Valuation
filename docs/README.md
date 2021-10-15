@@ -9,12 +9,15 @@ This analysis covers:
 * Sum of the Parts (SOTP) Valuation
 * Executive Summary
 
-<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21135&authkey=AAzfR7N7tvXTV-s&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
+<div align="center">
+<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21135&authkey=AAzfR7N7tvXTV-s&em=2" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+</div>  
 
 <br>
 
-<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21138&authkey=AMQWgdaFVSi1jmw&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
-
+<div align="center">
+<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21138&authkey=AMQWgdaFVSi1jmw&em=2" width="800" height="500" frameborder="0" scrolling="no"></iframe>
+</div>
 
 ### Financial Model can be downloaded [here](https://github.com/kyle-w-brown/GE-Valuation/blob/master/GE_Valuation_Group-5.xlsx?raw=true).
 ### Executive Summary can be downloaded [here](https://github.com/kyle-w-brown/GE-Valuation/raw/master/GE_Memo_Group-5.pdf).
