@@ -12,8 +12,7 @@ This analysis covers:
 
 # Excel Workbook
 
-<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21764&authkey=AGsV443OoL38UmY&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://onedrive.live.com/embed?cid=A28B17A16AE813DC&resid=A28B17A16AE813DC%21764&authkey=AGsV443OoL38UmY&em=2" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 <br>
 
 # Executive Summary
